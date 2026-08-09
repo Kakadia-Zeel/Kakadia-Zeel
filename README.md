@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://kakadia-zeel.github.io/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="42" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:zeelkakadia.work@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zeel-kakadia/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn" /></a>
+  <a href="https://kakadia-zeel.github.io/"><img src="https://img.shields.io/badge/Explore_Portfolio-FF5D01?style=for-the-badge&logo=astro&logoColor=white" alt="Explore Portfolio" /></a>
+  <a href="mailto:zeelkakadia.work@gmail.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+  <a href="https://www.linkedin.com/in/zeel-kakadia/"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 </p>
 
 ## A little about me
@@ -25,27 +25,14 @@
 
 ### Languages & backend
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="46" height="46" alt="Java" title="Java" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="46" height="46" alt="Python" title="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="46" height="46" alt="SQL" title="SQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="46" height="46" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="46" height="46" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="46" height="46" alt="Spring Boot" title="Spring Boot" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="46" height="46" alt="FastAPI" title="FastAPI" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,spring,fastapi&theme=dark" alt="Java, Python, JavaScript, TypeScript, Spring Boot, and FastAPI" />
 </p>
 
 ### Data & infrastructure
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="46" height="46" alt="MySQL" title="MySQL" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg" width="46" height="46" alt="Neo4j" title="Neo4j" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="46" height="46" alt="Redis" title="Redis" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="46" height="46" alt="Apache Kafka" title="Apache Kafka" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opensearch/005EB8" width="46" height="46" alt="OpenSearch" title="OpenSearch" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="46" height="46" alt="Docker" title="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="46" height="46" alt="Kubernetes" title="Kubernetes" />&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="46" height="46" alt="GitHub Actions" title="GitHub Actions" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,neo4j,redis,kafka,opensearch,docker,kubernetes,githubactions&theme=dark" alt="MySQL, Neo4j, Redis, Kafka, OpenSearch, Docker, Kubernetes, and GitHub Actions" />
 </p>
 
 ## What I'm focused on now
