@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://kakadia-zeel.github.io/" title="Portfolio"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="42" height="42" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:zeelkakadia.work@gmail.com" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="42" height="42" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/zeelkakadia" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/zeel-kakadia/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="42" height="42" alt="LinkedIn" /></a>
 </p>
 
 ## A little about me
